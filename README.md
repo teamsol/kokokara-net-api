@@ -12,7 +12,7 @@ CC-BY 4.0
 
 ## リファレンス
 
-[Wiki](https://github.com/teamsol/kokokara-net-api/wiki/ここからネットAPI) を参照してください。
+[Wiki](https://github.com/teamsol/kokokara-net-api/wiki/ここからネット-Web-API) を参照してください。
 
 
 ## Author
